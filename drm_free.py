@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# encoding: utf-8
 #
 # A simple video memory usage calculator
 #
